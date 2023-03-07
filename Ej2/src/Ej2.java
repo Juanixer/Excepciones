@@ -3,7 +3,10 @@ import java.util.Scanner;
 public class Ej2 {
     public static int fact(int n) {
         if (n < 0) {
-            throw new IllegalArgumentException("El numero introducido no es valido");
+            throw new IllegalArgumentException("El factorial no puede realizarse al tratarse de un negativo");
+        }
+        if (n == 0) {
+            return 1;
         } else {
             return n * fact(n - 1);
         }

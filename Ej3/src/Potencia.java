@@ -4,8 +4,8 @@ public class Potencia {
 
 
     public static int pot(int ba, int exp) {
-        if (ba == 0) {
-            throw new IllegalArgumentException("La base no puede ser 0");
+        if (ba == 0 || ba < 0) {
+            throw new IllegalArgumentException("La base no puede ser 0 o menor manin");
         }
         if (exp == 0) {
             return 1;

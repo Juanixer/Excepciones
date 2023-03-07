@@ -1,8 +1,8 @@
 public class SumaLista {
 
     public static int sumPares(double[] lista, int indice) {
-        if (lista == null)
-            throw new IllegalArgumentException("La lista no puede ser nula");
+        if (lista == null){
+            throw new IllegalArgumentException("La lista no puede ser nula");}
         if (lista[indice] == 0) {
             if (lista[indice] % 2 == 0) {
                 return (int) lista[indice];

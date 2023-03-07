@@ -6,12 +6,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Ej1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ej10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej5/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej6/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej7/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej8/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ej11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ej12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ej13/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
